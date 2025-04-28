@@ -1,5 +1,5 @@
-Flappy Bird - Python Version
-Overview
+Flappy Bird - Python Version Overview
+
 This project is a Python-based recreation of the classic Flappy Bird game. Players control a bird attempting to fly between sets of pipes without hitting them. The objective is to survive as long as possible while achieving the highest score.
 
 The game features smooth controls and simple but addictive gameplay, faithful to the original version.
@@ -34,9 +34,9 @@ Ensure required libraries (like pygame) are installed.
 Run the game script:
 
 bash
-Copier
-Modifier
 python flappy_bird.py
+
+
 Start Playing:
 
 Use the space bar, up arrow key, or mouse click to control the bird.
@@ -64,10 +64,10 @@ Pygame Library
 
 Install Pygame if you don't have it yet:
 
-bash
-Copier
-Modifier
+
 pip install pygame
+
+
 Notes
 The game window may be resized based on your settings.
 
