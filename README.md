@@ -50,38 +50,6 @@ Flappy Bird is a side-scrolling game where you control a bird that continuously 
    - The bird hits the ground
    - The bird flies too high
 
-## 🎨 Game Components
-
-### The Bird
-- Animated character with flapping wings
-- Rotates based on its movement
-- Responds to your commands for jumping
-
-### The Pipes
-- Obstacles that move from right to left
-- Appear in pairs with a gap between them
-- Randomly generated for endless gameplay
-
-### Scoring System
-- Score increases by 1 for each pipe passed
-- Score is displayed at the top of the screen
-- Try to beat your high score!
-
-### Game Over Screen
-- Appears when the bird hits an obstacle
-- Shows your final score
-- Includes a restart button to play again
-
-## 📁 Project Files
-
-- `flappy_bird.py` - Main game file
-- `img/` folder contains:
-  - Bird animation frames (`bird1.png`, `bird2.png`, `bird3.png`)
-  - Pipe obstacle (`pipe.png`)
-  - Ground texture (`ground.png`)
-  - Background image (`bg.png`)
-  - Restart button (`restart.png`)
-
 ## 💡 Tips for Playing
 
 1. Time your jumps carefully
